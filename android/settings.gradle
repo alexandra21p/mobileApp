@@ -1,0 +1,3 @@
+rootProject.name = 'PlsWork'
+
+include ':app'
